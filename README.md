@@ -16,6 +16,6 @@ recentemente ho scoperto "GITHUB PAGES"
 
 infatti il hosting è direttamente su github.io, se ti interessa clicca il [link][1]
 
-```laaouatni.github.io/fcc0```
+```laaouatni.github.io/fcc1```
 
 [1]: https://laaouatni.github.io/fcc1/
