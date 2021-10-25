@@ -1,7 +1,7 @@
 # Laaouatni - Survey Form
 [Sito è finalmente disponibile online][1]
 
-questo è il primo (2 su 5) progetto di FreeCodeCamp.org.
+questo è il secondo (2 su 5) progetto di FreeCodeCamp.org.
 
 per ottenere la certificazione **RESPONSIVE WEB DESIGN**!
 
