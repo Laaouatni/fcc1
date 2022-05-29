@@ -21,3 +21,5 @@ infatti il hosting è direttamente su github.io, se ti interessa clicca il [link
 ![2021-12-19-12-21-07](https://user-images.githubusercontent.com/87947051/146673118-e839ecab-12ab-4784-8a68-2ac85870e6aa.gif)
 
 [1]: https://laaouatni.github.io/fcc1/
+
+![](https://visitor-badge.glitch.me/badge?page_id=fcc1)
